@@ -1,6 +1,6 @@
-# Three.js Journey
+# Portal Scene with Custom Blender Model
 
-## Setup
+## *Setup*
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
