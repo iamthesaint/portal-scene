@@ -62,8 +62,8 @@ const bakedMaterial = new THREE.MeshBasicMaterial({ map: bakedTexture })
 // pole light
 const poleLightMaterial = new THREE.MeshBasicMaterial({ color: 0xffd8c5 })
 
-debugObject.portalColorStart = '#ffffff'
-debugObject.portalColorEnd = '#f5e1c2'
+debugObject.portalColorStart = '#ffc7c7'
+debugObject.portalColorEnd = '#000000'
 
 gui
     .addColor(debugObject, 'portalColorStart')
